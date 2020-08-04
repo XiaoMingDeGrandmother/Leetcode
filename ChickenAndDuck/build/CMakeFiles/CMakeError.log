@@ -1,0 +1,131 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/gcc.exe 
+Build flags: -g;-Wall;;-I;C:\Program;Files\Git\mingw64\include;-L;C:\Program;Files\Git\mingw64\lib
+Id flags:  
+
+The output was:
+1
+gcc.exe: ´íÎó£ºFiles\Git\mingw64\include£ºNo such file or directory
+gcc.exe: ´íÎó£ºFiles\Git\mingw64\lib£ºNo such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/gcc.exe 
+Build flags: -g;-Wall;;-I;C:\Program;Files\Git\mingw64\include;-L;C:\Program;Files\Git\mingw64\lib
+Id flags: -c 
+
+The output was:
+1
+gcc.exe: ´íÎó£ºFiles\Git\mingw64\include£ºNo such file or directory
+gcc.exe: ´íÎó£ºFiles\Git\mingw64\lib£ºNo such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/gcc.exe 
+Build flags: -g;-Wall;;-I;C:\Program;Files\Git\mingw64\include;-L;C:\Program;Files\Git\mingw64\lib
+Id flags: -Aa 
+
+The output was:
+1
+gcc.exe: ´íÎó£ºFiles\Git\mingw64\include£ºNo such file or directory
+gcc.exe: ´íÎó£ºFiles\Git\mingw64\lib£ºNo such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/gcc.exe 
+Build flags: -g;-Wall;;-I;C:\Program;Files\Git\mingw64\include;-L;C:\Program;Files\Git\mingw64\lib
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc.exe: ´íÎó£ºFiles\Git\mingw64\include£ºNo such file or directory
+gcc.exe: ´íÎó£ºFiles\Git\mingw64\lib£ºNo such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/Program Files/Git/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find C:/Program: No such file or directory
+C:/Program Files/Git/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find Files/Git/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/g++.exe 
+Build flags: -g;-Wall;;-I;C:\Program;Files\Git\mingw64\include;-L;C:\Program;Files\Git\mingw64\lib
+Id flags:  
+
+The output was:
+1
+g++.exe: ´íÎó£ºFiles\Git\mingw64\include£ºNo such file or directory
+g++.exe: ´íÎó£ºFiles\Git\mingw64\lib£ºNo such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/g++.exe 
+Build flags: -g;-Wall;;-I;C:\Program;Files\Git\mingw64\include;-L;C:\Program;Files\Git\mingw64\lib
+Id flags: -c 
+
+The output was:
+1
+g++.exe: ´íÎó£ºFiles\Git\mingw64\include£ºNo such file or directory
+g++.exe: ´íÎó£ºFiles\Git\mingw64\lib£ºNo such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/g++.exe 
+Build flags: -g;-Wall;;-I;C:\Program;Files\Git\mingw64\include;-L;C:\Program;Files\Git\mingw64\lib
+Id flags: --c++ 
+
+The output was:
+1
+g++.exe: ´íÎó£ºFiles\Git\mingw64\include£ºNo such file or directory
+g++.exe: ´íÎó£ºFiles\Git\mingw64\lib£ºNo such file or directory
+g++.exe: ´íÎó£ºunrecognized command line option ¡®--c++¡¯
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/g++.exe 
+Build flags: -g;-Wall;;-I;C:\Program;Files\Git\mingw64\include;-L;C:\Program;Files\Git\mingw64\lib
+Id flags: --ec++ 
+
+The output was:
+1
+g++.exe: ´íÎó£ºFiles\Git\mingw64\include£ºNo such file or directory
+g++.exe: ´íÎó£ºFiles\Git\mingw64\lib£ºNo such file or directory
+g++.exe: ´íÎó£ºunrecognized command line option ¡®--ec++¡¯; did you mean ¡®-Weffc++¡¯?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files/Git/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+C:/Program Files/Git/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find C:/Program: No such file or directory
+C:/Program Files/Git/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot find Files/Git/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.2.1/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: F:/Users/hp/Desktop/test_sort/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_8bd5b/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_8bd5b.dir\build.make CMakeFiles/cmTC_8bd5b.dir/build
+mingw32-make.exe[1]: Entering directory 'F:/Users/hp/Desktop/test_sort/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8bd5b.dir/testCCompiler.c.obj
+C:\PROGRA~1\Git\mingw64\bin\gcc.exe   -g -Wall  -I C:\Program Files\Git\mingw64\include -L C:\Program Files\Git\mingw64\lib    -o CMakeFiles\cmTC_8bd5b.dir\testCCompiler.c.obj   -c F:\Users\hp\Desktop\test_sort\build\CMakeFiles\CMakeTmp\testCCompiler.c
+gcc.exe: é”™è¯¯ï¼šFiles\Git\mingw64\includeï¼šNo such file or directory
+gcc.exe: é”™è¯¯ï¼šFiles\Git\mingw64\libï¼šNo such file or directory
+CMakeFiles\cmTC_8bd5b.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_8bd5b.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_8bd5b.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'F:/Users/hp/Desktop/test_sort/build/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_8bd5b/fast' failed
+mingw32-make.exe: *** [cmTC_8bd5b/fast] Error 2
+
+
